@@ -34,3 +34,9 @@ AUTO_SHIFT_ENABLE = no      # Auto Shift
 # Custom RGB matrix handling
 RGB_MATRIX_ENABLE = yes
 RGB_MATRIX_DRIVER = custom
+
+# Additional configuration options
+# CONSOLE_ENABLE = yes
+COMMAND_ENABLE = yes
+
+DEBOUNCE_TYPE = eager_pk
